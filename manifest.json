@@ -1,0 +1,10 @@
+{
+  "name": "FitGoals",
+  "description": "Your fitness roadmap!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "images/dumbbell.png"
+  }
+}
